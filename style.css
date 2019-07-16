@@ -1,0 +1,42 @@
+.dancer{
+  background-image: url("images/portada.png");
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.first{
+    background-color: #509BF5;
+}
+
+.titulo{
+    font-size: 80px;
+    color: white;
+}
+
+.navbar {
+    background-color: rgba(0,0,0.6);
+    min-height: 75px;
+    width: 100%;
+}
+
+.navbar-item {
+    color: white !important;
+}
+
+.subtitulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: white;
+}
+
+.terminos{
+    font-size: 11px;
+    color: white;
+}
+
+.primseccion{
+    font-size: 45px;
+}
